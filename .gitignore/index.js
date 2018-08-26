@@ -8,7 +8,7 @@ console.log ("Pret a travailler")
 });
 
 
-ClientDiscord.login("NDgyODE1MjUxMzMxNjc4MjA5.DmKZ1w.9w-KkNlV5-sStFDVmDHoqr2Nxjs");
+ClientDiscord.login("process.env.TOKEN");
 
 ClientDiscord.on('guildMemberAdd', member => {
 member.createDM().then(channel => {
