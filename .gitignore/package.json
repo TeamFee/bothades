@@ -1,0 +1,14 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "Creation d'un bot DM a l'arrivee sur le serveur",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fee",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
