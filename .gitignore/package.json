@@ -4,7 +4,7 @@
   "description": "Creation d'un bot DM a l'arrivee sur le serveur",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index"
   },
   "author": "Fee",
   "license": "MIT",
